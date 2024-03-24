@@ -1,10 +1,10 @@
 format_version: 10
 pipelines:
-  practice-expense-terraform2-apply:
+  praexpense-tf-apply:
     group: terraform
     materials:
       git-da613e5:
-        git: https://github.com/raju-b70/practice-expense-terraform2.git
+        git: https://github.com/raju-b70/praexpense-terraform2.git
         shallow_clone: false
         auto_update: true
         branch: main
