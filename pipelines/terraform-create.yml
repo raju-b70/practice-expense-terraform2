@@ -1,6 +1,6 @@
 format_version: 10
 pipelines:
-  practice-expense-tf2-apply:
+  practice-expense-terraform2-apply:
     group: terraform
     materials:
       git-da613e5:
